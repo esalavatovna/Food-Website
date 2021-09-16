@@ -33,7 +33,7 @@ html {
   background-color: #000;
   position: fixed;
   top: -14rem;
-  z-index: 300;
+  z-index: 1000;
   display: flex;
   justify-content: center;
   align-items: center;
